@@ -1,5 +1,5 @@
 # Booleans in Python :snake:
-Some knowledge about booleans data type in Python.
+Some knowledges about booleans data type in Python.
 
 Booleans data type have two values: True or False.
 We can compare two values and Python returns the boolean answer.
